@@ -14,3 +14,15 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+echo "__pycache__/
+*.py[cod]
+*.log
+*.pot
+*.pyc
+venv/
+dist/
+build/
+*.egg-info/
+.DS_Store
+.pytest_cache/" > .gitignore

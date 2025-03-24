@@ -126,7 +126,7 @@ git push origin feature/amazing-feature
     Open a Pull Request
 
 See CONTRIBUTING.md for detailed guidelines.
-📜 License
+📜 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Distributed under the MIT License. See LICENSE for more information.
 🙏 Acknowledgements
